@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?
-    i=mongodb,express,react,nodejs,js,html,css,git,github&and ai agents too
+    i=mongodb,express,react,nodejs,js,html,css,git,github&
     theme=dark" />
 </p>
 
