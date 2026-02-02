@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
+<img src="https://readme-typing-svg.herokuapp.com?
     font=Fira+Code&
     size=34&
     pause=1000&
@@ -9,4 +8,3 @@
     lines=Hi+👋;
     I'm+Thirumurugan+Balamurugan;
     MERN+Stack+Developer" />
-</p>
